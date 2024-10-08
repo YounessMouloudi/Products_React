@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": 6500,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Pc Portable",
+      "price": 5200,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Phone",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "PRINTER",
+      "price": 4500,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "PRINTER",
+      "price": 4500,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "PRINTER",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "id": "7",
+      "name": "Pc",
+      "price": 9000,
+      "checked": false
+    }
+  ]
+}
